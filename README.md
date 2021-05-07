@@ -15,6 +15,8 @@
 <!-- 
 [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
+* Link do vídeo demonstrando o funcionamento do projeto: https://youtu.be/FeBZ2wICk8k
+
 Configurar um ambiente baseado em contêineres Docker com a seguinte especificação:
 * 1 contêiner com um servidor web e o sistema `PHP` disponibilizado em anexo.
 * 1 contêiner com um servidor de banco de dados `MySQL` com a estrutura de dados
